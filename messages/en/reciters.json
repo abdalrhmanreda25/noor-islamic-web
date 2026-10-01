@@ -1,0 +1,22 @@
+{
+  "search": "Search reciters…",
+  "count": "{n} reciters",
+  "noResults": "No reciter by that name",
+  "surahCount": "{n} surahs",
+  "moshafCount": "{n} recitations",
+  "moshaf": "Recitation",
+  "searchSurah": "Search surahs",
+  "play": "Play",
+  "pause": "Pause",
+  "download": "Download",
+  "prev": "Previous",
+  "next": "Next",
+  "repeat": "Repeat surah",
+  "repeatOff": "Stop repeating",
+  "close": "Close",
+  "streaming": "Streaming",
+  "error": "Couldn't play this recitation",
+  "ayahs": "{n} ayahs",
+  "playAll": "Play all",
+  "back": "All reciters"
+}

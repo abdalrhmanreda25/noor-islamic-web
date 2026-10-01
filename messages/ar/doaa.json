@@ -1,0 +1,16 @@
+{
+  "heroLabel": "ادع الله في كل وقت وحين",
+  "heroRef": "سورة غافر ٦٠",
+  "categories": {
+    "food": "أدعية للطعام",
+    "prayer": "أدعية للصلاة",
+    "dead": "أدعية للميت",
+    "travel": "أدعية للسفر",
+    "misc": "أدعية متنوعة",
+    "arafah": "أدعية يوم عرفة"
+  },
+  "count": "{count, plural, one {دعاء واحد} two {دعاءان} few {{n} أدعية} other {{n} دعاء}}",
+  "items": "{count, plural, one {ذكر واحد} two {ذكران} few {{n} أذكار} other {{n} ذكرًا}}",
+  "previous": "الدعاء السابق",
+  "next": "الدعاء التالي"
+}

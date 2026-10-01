@@ -1,0 +1,34 @@
+{
+  "dayProgress": "{done} of {total} prayers performed",
+  "streak": "day streak",
+  "monthCompletion": "this month",
+  "hint": "Pick a status for each prayer: congregation, alone, made up or missed. Tap it again to clear.",
+  "states": {
+    "none": "Not logged",
+    "jamaah": "Congregation",
+    "alone": "Alone",
+    "qada": "Made up",
+    "missed": "Missed"
+  },
+  "deductAsk": "You logged {prayer} as made up. Deduct it from your qada counter?",
+  "deduct": "Deduct",
+  "hadithTitle": "Hadith of the day",
+  "hadith": "The Messenger of Allah ﷺ said: \"If there was a river at the door of one of you in which he bathed five times a day, would any dirt remain on him?\" They said: \"No dirt would remain.\" He said: \"That is like the five prayers: through them Allah wipes away sins.\"",
+  "hadithSource": "Agreed upon (Bukhari and Muslim), narrated by Abu Hurayrah",
+  "tabs": {
+    "week": "Week",
+    "month": "Month",
+    "qada": "Qada"
+  },
+  "previous": "Previous",
+  "next": "Next",
+  "weekSummary": "{done} of {total} prayers performed this week",
+  "monthPrayed": "Prayers performed this month",
+  "bestStreak": "Longest run of complete days",
+  "less": "Less",
+  "more": "More",
+  "qadaTotal": "Total prayers left to make up",
+  "qadaHint": "Record how many old missed prayers you owe and reduce the count each time you make one up. Most jurists hold that missed prayers must be made up, along with repentance, seeking forgiveness and extra voluntary prayers.",
+  "increase": "Increase",
+  "decrease": "Decrease"
+}

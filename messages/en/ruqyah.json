@@ -1,0 +1,17 @@
+{
+  "guideTitle": "How to perform ruqyah on yourself",
+  "quran": "Quranic verses",
+  "sunnah": "Prophetic Sunnah",
+  "topics": {
+    "all": "All",
+    "protection": "Protection",
+    "eye": "Evil eye & envy",
+    "magic": "Magic",
+    "healing": "Healing"
+  },
+  "progress": "{done} of {total} done",
+  "allDone": "Ruqyah complete. May Allah heal you",
+  "reset": "Reset",
+  "copy": "Copy",
+  "repeat": "Repeat: {count}"
+}

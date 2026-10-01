@@ -1,0 +1,53 @@
+{
+  "types": {
+    "ramadan": "Ramadan",
+    "missed": "Missed (to make up)",
+    "monday_thursday": "Monday & Thursday",
+    "white_days": "White days",
+    "ashura": "Ashura",
+    "arafah": "Arafah",
+    "shawwal_six": "Six of Shawwal",
+    "qada": "Make-up (qada)",
+    "voluntary": "Voluntary"
+  },
+  "calendarHint": "Tap a day to log or remove its fast; future days can't be logged",
+  "prevMonth": "Previous month",
+  "nextMonth": "Next month",
+  "today": "Back to today",
+  "weekdays": ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
+  "sheet": {
+    "log": "Log this day's fast",
+    "edit": "Edit this day's fast",
+    "forbidden": "This day is Eid or one of the days of Tashreeq per the calculated calendar, and fasting it is not permitted. The calendar may differ from moon sighting by a day.",
+    "ramadan": "This day is in Ramadan per the calculated calendar; fasting it is obligatory. Log your fast, or log it as missed to add a day to your make-up counter.",
+    "remove": "Remove this day's fast",
+    "suggested": "Suggested",
+    "close": "Close"
+  },
+  "future": "You can't log a fast for a day that hasn't come yet",
+  "qada": {
+    "title": "Days I owe (qada)",
+    "hint": "Logging a “make-up” fast deducts a day automatically; logging a Ramadan day as “missed” adds one.",
+    "add": "Add a day",
+    "remove": "Remove a day"
+  },
+  "stats": {
+    "title": "Fasting stats",
+    "month": "In {month}",
+    "year": "In {year} AH",
+    "byType": "By type (this Hijri year)",
+    "empty": "No fasts logged this year yet. Start from the calendar.",
+    "days": "{count, plural, =0 {No days} one {{n} day} other {{n} days}}"
+  },
+  "upcoming": {
+    "title": "Upcoming fasting occasions",
+    "monday": "Monday fast",
+    "thursday": "Thursday fast",
+    "weekly": "A weekly practice of the Prophet ﷺ",
+    "whiteDays": "The white days",
+    "ashura": "Day of Ashura",
+    "arafah": "Day of Arafah",
+    "note": "Hijri dates are calculated and may differ from moon sighting by a day.",
+    "away": "{count, plural, =0 {Today} one {Tomorrow} other {In {n} days}}"
+  }
+}

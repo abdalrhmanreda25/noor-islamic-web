@@ -1,0 +1,16 @@
+{
+  "heroLabel": "Call upon Allah at all times",
+  "heroRef": "Surah Ghafir 40:60",
+  "categories": {
+    "food": "Duas for food",
+    "prayer": "Duas in prayer",
+    "dead": "Duas for the deceased",
+    "travel": "Duas for travel",
+    "misc": "Various duas",
+    "arafah": "Duas of the Day of Arafah"
+  },
+  "count": "{count, plural, one {# dua} other {# duas}}",
+  "items": "{count, plural, one {# supplication} other {# supplications}}",
+  "previous": "Previous dua",
+  "next": "Next dua"
+}

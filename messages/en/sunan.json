@@ -1,0 +1,42 @@
+{
+  "subtitle": "Rawatib, voluntary prayers, daily sunnahs and the divine laws",
+  "today": "Today's sunnahs",
+  "rawatibProgress": "Rawatib: {done} of {total} rak'ahs",
+  "rawatibComplete": "Rawatib complete — a house in Paradise, God willing",
+  "streak": "{count, plural, one {# day} other {# days}}",
+  "streakLabel": "Rawatib streak",
+  "history": "Sunan history",
+  "hideHistory": "Hide history",
+  "thisMonth": "This month",
+  "fullDays": "Full-rawatib days",
+  "bestStreak": "Best streak",
+  "witrNights": "Nights with Witr",
+  "duhaDays": "Days with Duha",
+  "last30": "Last 30 days",
+  "less": "Less",
+  "more": "More",
+  "todayPrefix": "Today, ",
+  "dayRakaat": "{done}/{total} rak'ahs",
+  "editToday": "Tap to log what you prayed",
+  "editPast": "Forgot to log? Edit this day",
+  "witrMark": "Witr prayed",
+  "tabs": {
+    "rawatib": "Rawatib",
+    "nawafil": "Voluntary",
+    "daily": "Daily sunnahs",
+    "divine": "Divine laws"
+  },
+  "tracked": {
+    "fajr_before": "Before Fajr",
+    "dhuhr_before": "Before Dhuhr",
+    "dhuhr_after": "After Dhuhr",
+    "maghrib_after": "After Maghrib",
+    "isha_after": "After Isha",
+    "duha": "Duha",
+    "witr": "Witr"
+  },
+  "copy": "Copy",
+  "copied": "Copied",
+  "nightPrayer": "Open Night Prayer",
+  "nightPrayerDesc": "Tonight's times and your qiyam tracker"
+}

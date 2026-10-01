@@ -1,0 +1,33 @@
+{
+  "bearing": "Qibla direction",
+  "fromNorth": "{deg}° from true north, towards the {dir}",
+  "distance": "Distance to Makkah: {km} km",
+  "enableCompass": "Enable compass",
+  "compassHint": "Hold your phone flat and turn until the gold arrow points up.",
+  "noCompass": "Compass not available on this device. Use the bearing in degrees.",
+  "aligned": "You are facing the Qibla",
+  "subtitle": "Qibla direction from your location",
+  "kaaba": "Kaaba",
+  "turnRight": "Turn right {deg}°",
+  "turnLeft": "Turn left {deg}°",
+  "deviceHeading": "Device heading",
+  "distanceLabel": "Distance to Makkah",
+  "km": "{km} km",
+  "tipsTitle": "Tips for best accuracy",
+  "tipFlat": "Hold the phone flat",
+  "tipMetal": "Keep away from metal and magnetic devices",
+  "tipCalibrate": "To calibrate the compass, move the phone in a figure-8 a few times",
+  "tipGps": "Turn on location services for an accurate Qibla direction",
+  "ayahTitle": "The Qibla verse",
+  "ayahRef": "Surah Al-Baqarah 2:144",
+  "cardinal": {
+    "n": "north",
+    "ne": "north-east",
+    "e": "east",
+    "se": "south-east",
+    "s": "south",
+    "sw": "south-west",
+    "w": "west",
+    "nw": "north-west"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "quran": {
+    "title": "The Holy Quran",
+    "desc": "Mushaf page by page, like the app"
+  },
+  "quran-listen": {
+    "title": "Listen & Follow",
+    "desc": "Listen while ayahs highlight"
+  },
+  "reciters": {
+    "title": "Reciters",
+    "desc": "Full recitations by renowned reciters"
+  },
+  "radio": {
+    "title": "Radio",
+    "desc": "Live Quran radio stations"
+  },
+  "khatma": {
+    "title": "Quran Completion",
+    "desc": "Plan and track a khatma"
+  },
+  "tafseer": {
+    "title": "Tafsir",
+    "desc": "Muyassar, Jalalayn, Ibn Kathir, Qurtubi"
+  },
+  "card-maker": {
+    "title": "Card Maker",
+    "desc": "Design and share an ayah card"
+  },
+  "asbab-nuzul": {
+    "title": "Reasons of Revelation",
+    "desc": "Why ayahs were revealed"
+  },
+  "mutashabihat": {
+    "title": "Similar Verses",
+    "desc": "Verses with similar wording"
+  },
+  "listening-wird": {
+    "title": "Listening Wird",
+    "desc": "Daily listening portion"
+  },
+  "prayer-times": {
+    "title": "Prayer Times",
+    "desc": "Accurate times for your location"
+  },
+  "qibla": {
+    "title": "Qibla",
+    "desc": "Qibla direction from your location"
+  },
+  "night-prayer": {
+    "title": "Night Prayer",
+    "desc": "Last third of the night and its virtue"
+  },
+  "prayer-tracker": {
+    "title": "Prayer Log",
+    "desc": "Log your daily prayers"
+  },
+  "salah-guide": {
+    "title": "Prayer Guide",
+    "desc": "How to pray, step by step"
+  },
+  "doaa": {
+    "title": "Duas",
+    "desc": "Duas from Quran and Sunnah"
+  },
+  "azkar": {
+    "title": "Azkar",
+    "desc": "Morning, evening and more"
+  },
+  "tasbeeh": {
+    "title": "Tasbeeh",
+    "desc": "Digital tasbeeh counter"
+  },
+  "azkar-tracker": {
+    "title": "Azkar Log",
+    "desc": "Track your daily azkar"
+  },
+  "muslim-fortress": {
+    "title": "Fortress of the Muslim",
+    "desc": "The complete Hisn al-Muslim"
+  },
+  "ruqyah": {
+    "title": "Ruqyah",
+    "desc": "Ruqyah from Quran and Sunnah"
+  },
+  "hadith": {
+    "title": "Hadith Collections",
+    "desc": "Bukhari, Muslim, Sunan and more"
+  },
+  "sunan": {
+    "title": "Sunan",
+    "desc": "Daily prophetic practices"
+  },
+  "seerah": {
+    "title": "Prophetic Seerah",
+    "desc": "The Prophet's ﷺ life timeline"
+  },
+  "fiqh": {
+    "title": "Learn your Religion",
+    "desc": "Simplified fiqh topics"
+  },
+  "names-of-allah": {
+    "title": "Names of Allah",
+    "desc": "Meaning, effect and evidence"
+  },
+  "nawawi": {
+    "title": "Forty Nawawi",
+    "desc": "Hadiths with explanation and benefits"
+  },
+  "quiz": {
+    "title": "Islamic Quiz",
+    "desc": "Test your knowledge"
+  },
+  "zakat": {
+    "title": "Zakat",
+    "desc": "Calculate zakat on money, gold, crops, livestock"
+  },
+  "ramadan": {
+    "title": "Ramadan",
+    "desc": "Imsakiyah and Ramadan duas"
+  },
+  "fasting-tracker": {
+    "title": "Fasting Tracker",
+    "desc": "Log fasts and make-ups"
+  },
+  "hijri": {
+    "title": "Hijri Calendar Tools",
+    "desc": "Calendar, converter and occasions"
+  },
+  "achievements": {
+    "title": "My Achievements",
+    "desc": "Your stats and badges"
+  },
+  "day-counter": {
+    "title": "Day Counter",
+    "desc": "Count days to a goal or event"
+  },
+  "daily-planner": {
+    "title": "Daily Planner",
+    "desc": "Plan your day around prayers"
+  },
+  "daily-content": {
+    "title": "Verse & Hadith of the Day",
+    "desc": "A new ayah and hadith every day"
+  },
+  "settings": {
+    "title": "Settings",
+    "desc": "Theme, language, reciter, prayer times"
+  }
+}

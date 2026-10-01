@@ -1,0 +1,19 @@
+{
+  "narrator": "الراوي",
+  "source": "المصدر",
+  "explanation": "الشرح",
+  "benefits": "الفوائد",
+  "topics": "الموضوعات",
+  "search": "ابحث بالعنوان أو النص أو الرقم",
+  "all": "الكل",
+  "memorized": "محفوظ",
+  "unread": "لم يُقرأ",
+  "read": "مقروء",
+  "markRead": "تمت القراءة",
+  "markMemorized": "حفظته",
+  "progress": "قرأت {read} من {total} · حفظت {memorized}",
+  "subtitle": "اثنان وأربعون حديثًا جامعة لأصول الدين",
+  "noResults": "لا توجد نتائج",
+  "continue": "تابع: الحديث {n}",
+  "start": "ابدأ القراءة"
+}

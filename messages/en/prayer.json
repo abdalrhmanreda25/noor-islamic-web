@@ -1,0 +1,26 @@
+{
+  "fajr": "Fajr",
+  "sunrise": "Sunrise",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "next": "Next prayer",
+  "remaining": "{time} left",
+  "useLocation": "Use my location",
+  "locating": "Locating…",
+  "defaultLocation": "Cairo, Egypt (default)",
+  "myLocation": "My location",
+  "locationDenied": "Location unavailable, using Cairo.",
+  "method": "Calculation method",
+  "methods": {
+    "Egyptian": "Egyptian General Authority of Survey",
+    "UmmAlQura": "Umm al-Qura",
+    "Kuwait": "Kuwait",
+    "Qatar": "Qatar",
+    "Dubai": "Dubai",
+    "MuslimWorldLeague": "Muslim World League"
+  },
+  "today": "Today",
+  "viewAll": "All times"
+}

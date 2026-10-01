@@ -1,0 +1,87 @@
+{
+  "dayOf": "Day {day} of Ramadan {year} AH",
+  "progress": "{day} of {total} days passed",
+  "untilRamadan": "Until Ramadan {year} AH",
+  "days": "{count, plural, =0 {Today} one {{n} day} other {{n} days}}",
+  "expectedStart": "Expected start: {date}",
+  "sightingNote": "Based on the calculated Hijri calendar; may differ by a day with moon sighting",
+  "shawwalNow": "It's Shawwal: you logged {count} of 6 days",
+  "countdown": {
+    "imsak": "Imsak (Fajr)",
+    "iftar": "Iftar (Maghrib)",
+    "remaining": "Time left until {target}",
+    "targets": { "imsak": "imsak", "iftar": "iftar", "imsakTomorrow": "tomorrow's imsak" },
+    "useLocation": "Use my location",
+    "locating": "Locating…",
+    "defaultLocation": "Times are for Cairo (default). Set your location for accurate times."
+  },
+  "iftarDua": "Dua for breaking the fast",
+  "iftarDuaText": "ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ الْعُرُوقُ، وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+  "iftarDuaSource": "Abu Dawud",
+  "iftarDuaMeaning": "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+  "tabs": { "imsakiyah": "Imsakiyah", "goals": "Daily goals", "lastTen": "Last ten nights", "shawwal": "Six of Shawwal" },
+  "imsakiyah": {
+    "title": "Ramadan {year} AH Imsakiyah",
+    "subtitle": "{count} days, for your current location",
+    "day": "Day",
+    "date": "Date",
+    "imsak": "Imsak",
+    "iftar": "Iftar",
+    "note": "Imsak is at the Fajr adhan and iftar at the Maghrib adhan, for your current location. Dates follow the calculated Hijri calendar and may differ by a day with moon sighting.",
+    "print": "Print"
+  },
+  "goals": {
+    "title": "Daily Ramadan goals",
+    "pickDay": "Pick a day",
+    "dayGoals": "Goals for day {day} of Ramadan",
+    "future": "You can't log goals for a day that hasn't come yet",
+    "onlyRamadan": "Goals can be logged during Ramadan",
+    "monthProgress": "Month progress",
+    "monthDetail": "{goals} daily goals × {days} days",
+    "todayDone": "Done today: {done} of {total} goals",
+    "items": {
+      "juz": "Read one juz of Quran",
+      "taraweeh": "Taraweeh prayer",
+      "sadaqah": "Charity",
+      "azkar": "Morning & evening azkar",
+      "dua": "Dua"
+    }
+  },
+  "lastTen": {
+    "title": "The last ten nights of Ramadan",
+    "qadrDua": "Dua of Laylat al-Qadr",
+    "qadrDuaText": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "qadrDuaSource": "At-Tirmidhi and Ibn Majah",
+    "hadith": "Aisha (may Allah be pleased with her) said: “When the last ten nights began, the Prophet ﷺ would tighten his waist-wrapper, spend the night in worship and wake his family.”",
+    "hadithSource": "Agreed upon",
+    "ayahRef": "Surah Al-Qadr, ayah 3",
+    "plan": "Worship plan",
+    "planItems": [
+      "Spend the nights in qiyam and tahajjud, lengthening the prayer",
+      "Seek Laylat al-Qadr every night, especially the odd ones (21, 23, 25, 27, 29)",
+      "Say often: “O Allah, You are Pardoning and love to pardon, so pardon me”",
+      "Recite the Quran and strive to complete it",
+      "Give charity and do plenty of good deeds",
+      "Observe i'tikaf in the mosque if you can",
+      "Wake your family and encourage them to worship"
+    ],
+    "tracker": "Taraweeh and qiyam tracker (nights 21–30)",
+    "onlyRamadan": "Nights can be logged during Ramadan",
+    "night": "Night {n}",
+    "odd": "Odd night ✨",
+    "taraweeh": "Taraweeh",
+    "qiyam": "Qiyam"
+  },
+  "shawwal": {
+    "title": "Six days of Shawwal",
+    "hadith": "The Prophet ﷺ said: “Whoever fasts Ramadan and follows it with six days of Shawwal, it is as if he fasted for a lifetime.”",
+    "hadithSource": "Muslim",
+    "note": "The six days may be fasted consecutively or separately at any time in Shawwal after Eid day; scholars allow flexibility in this.",
+    "onlyShawwal": "Days can be logged during Shawwal",
+    "year": "Shawwal {year} AH",
+    "done": "Completed 🎉",
+    "count": "{done} of 6 days",
+    "ordinals": ["1st", "2nd", "3rd", "4th", "5th", "6th"],
+    "day": "{ordinal} day"
+  }
+}

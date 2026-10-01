@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Wool/Cloud body of the sheep -->
+  <path d="M16 13a3 3 0 0 0 0-6 3 3 0 0 0-4-3 3 3 0 0 0-4 3 3 3 0 0 0 0 6 3 3 0 0 0 4 3 3 3 0 0 0 4-3z" />
+  <!-- Sheep Head -->
+  <path d="M8 10c0-1 1-1.5 2-1.5s2 .5 2 1.5v1.5c0 1-1 1.5-2 1.5s-2-.5-2-1.5V10z" />
+  <!-- Sheep Ears -->
+  <path d="M7 9c-.5 0-1 .5-1 1s.5 1 1 1M13 9c.5 0 1 .5 1 1s-.5 1-1 1" />
+  <!-- Sheep Legs -->
+  <path d="M9 16v3M11 16v3M13 16v3M15 16v3" />
+</svg>

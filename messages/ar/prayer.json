@@ -1,0 +1,26 @@
+{
+  "fajr": "الفجر",
+  "sunrise": "الشروق",
+  "dhuhr": "الظهر",
+  "asr": "العصر",
+  "maghrib": "المغرب",
+  "isha": "العشاء",
+  "next": "الصلاة القادمة",
+  "remaining": "متبقي {time}",
+  "useLocation": "استخدم موقعي",
+  "locating": "جارٍ تحديد الموقع…",
+  "defaultLocation": "القاهرة، مصر (افتراضي)",
+  "myLocation": "موقعي الحالي",
+  "locationDenied": "تعذر الوصول إلى الموقع، يُستخدم موقع القاهرة.",
+  "method": "طريقة الحساب",
+  "methods": {
+    "Egyptian": "الهيئة المصرية العامة للمساحة",
+    "UmmAlQura": "أم القرى",
+    "Kuwait": "الكويت",
+    "Qatar": "قطر",
+    "Dubai": "دبي",
+    "MuslimWorldLeague": "رابطة العالم الإسلامي"
+  },
+  "today": "اليوم",
+  "viewAll": "كل المواقيت"
+}

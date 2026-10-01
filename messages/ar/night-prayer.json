@@ -1,0 +1,35 @@
+{
+  "tonight": "الليلة",
+  "locating": "جارٍ تحديد الموقع…",
+  "defaultLocation": "القاهرة (افتراضي) · استخدم موقعي",
+  "myLocation": "موقعي الحالي",
+  "span": "{h, plural, =0 {} other {# س و}}{m} د",
+  "statusBeforeIsha": "يبدأ وقت القيام بعد العشاء ({time})",
+  "statusUntilLastThird": "الثلث الأخير بعد {span}",
+  "statusInLastThird": "أنت الآن في الثلث الأخير، يبقى {span} على الفجر",
+  "times": {
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "firstThird": "نهاية الثلث الأول",
+    "middle": "منتصف الليل",
+    "lastThird": "الثلث الأخير",
+    "fajr": "الفجر"
+  },
+  "timesNote": "الليل من المغرب إلى الفجر؛ منتصفه وثلثه الأخير محسوبان من مغرب الليلة وفجر الغد لموقعك.",
+  "trackerTonight": "قيامك الليلة",
+  "trackerLastNight": "قيامك البارحة",
+  "trackerHint": "كم ركعة صليت؟ سجّلها لتتابع تقدمك",
+  "accepted": "تقبّل الله منك",
+  "rakah": "ركعة",
+  "statStreak": "ليالٍ متتالية",
+  "statNights": "ليلة هذا الشهر",
+  "statRakaat": "ركعة هذا الشهر",
+  "tonightShort": "الليلة",
+  "lastNight": "البارحة",
+  "tabs": {
+    "virtues": "الفضائل",
+    "howTo": "الكيفية",
+    "duas": "الأدعية",
+    "helps": "المعينات"
+  }
+}

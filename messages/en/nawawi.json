@@ -1,0 +1,19 @@
+{
+  "narrator": "Narrator",
+  "source": "Source",
+  "explanation": "Explanation",
+  "benefits": "Benefits",
+  "topics": "Topics",
+  "search": "Search by title, text or number",
+  "all": "All",
+  "memorized": "Memorized",
+  "unread": "Unread",
+  "read": "Read",
+  "markRead": "Read",
+  "markMemorized": "Memorized",
+  "progress": "Read {read} of {total} · memorized {memorized}",
+  "subtitle": "Forty-two hadiths that gather the foundations of the religion",
+  "noResults": "No results",
+  "continue": "Continue: hadith {n}",
+  "start": "Start reading"
+}

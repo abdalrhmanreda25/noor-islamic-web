@@ -1,0 +1,14 @@
+{
+  "readProgress": "Read {read} of {total} topics",
+  "allRead": "You finished the prayer guide. May Allah bless you",
+  "searchPlaceholder": "Search (Arabic): الوضوء، سجود السهو، الوتر…",
+  "all": "All",
+  "unread": "Unread",
+  "noUnread": "You've read every topic here 🎉",
+  "noResults": "No results, try another word",
+  "stepByStep": "Step by step",
+  "read": "Read",
+  "markRead": "Mark as read",
+  "nextTopic": "Next",
+  "back": "Prayer guide"
+}

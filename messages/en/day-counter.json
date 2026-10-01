@@ -1,0 +1,94 @@
+{
+  "new": "New challenge",
+  "mine": "My challenges",
+  "categories": { "all": "All", "prayer": "Prayer", "quranDhikr": "Quran & dhikr", "fastingCharity": "Fasting & charity", "character": "Character & sunnah" },
+  "empty": {
+    "title": "Start your first challenge",
+    "body": "Pick one good deed and log it day by day until it becomes a habit.",
+    "featured": "Suggestions to start",
+    "all": "All challenges ({count}) or a custom counter",
+    "quote": "“The most beloved deeds to Allah are the most consistent, even if small.”",
+    "source": "Agreed upon"
+  },
+  "overview": {
+    "allDone": "You've done all of today's commitments",
+    "marked": "Logged {done} of {total} today",
+    "countdowns": "{count, plural, one {{n} countdown running} other {{n} countdowns running}}",
+    "allPaused": "All your counters are paused",
+    "allComplete": "All your counters are complete. May Allah bless you",
+    "active": "Active",
+    "bestStreak": "Best streak",
+    "thisMonth": "Days this month"
+  },
+  "days": "{count, plural, =0 {0 days} one {{n} day} other {{n} days}}",
+  "card": {
+    "paused": "Paused",
+    "auto": "Auto",
+    "countdown": "Countdown",
+    "streak": "Streak {n}",
+    "best": "Best {n}",
+    "arrived": "The date has arrived",
+    "left": "{days} left",
+    "complete": "Completed {n} days",
+    "progress": "{done} of {total} days",
+    "remaining": " · {n} left"
+  },
+  "checkIn": {
+    "arrived": "The date has arrived. May Allah grant you its good",
+    "complete": "Challenge complete. May Allah bless you",
+    "countdownInfo": "Countdown · target {date}",
+    "autoInfo": "Auto counter · started {date}",
+    "paused": "Paused",
+    "resume": "Resume",
+    "done": "Logged today. May Allah accept it",
+    "undo": "Undo",
+    "markToday": "Done today"
+  },
+  "actions": { "edit": "Edit", "resume": "Resume", "pause": "Pause", "reset": "Restart", "delete": "Delete", "details": "Details", "close": "Close" },
+  "confirm": {
+    "reset": "“{title}” will go back to zero days, keeping its name and target. This can't be undone.",
+    "delete": "“{title}” and all its logged days will be deleted permanently."
+  },
+  "completed": "You completed “{title}”. May Allah bless you and keep you steadfast.",
+  "calendar": {
+    "doneInMonth": "{n} days done",
+    "manualHint": "Tap a past day to log it if you forgot, or to unlog it.",
+    "autoHint": "This counter advances by itself as days pass.",
+    "prev": "Previous month",
+    "next": "Next month",
+    "weekdays": ["Sa", "Su", "Mo", "Tu", "We", "Th", "Fr"]
+  },
+  "stats": { "remaining": "Left", "elapsed": "Elapsed", "span": "Span", "done": "Done", "streak": "Streak", "best": "Best" },
+  "started": "Started {date}",
+  "templates": {
+    "title": "Choose a challenge",
+    "subtitle": "Ready-made challenges that start in one tap; you can edit them later.",
+    "custom": "Custom counter",
+    "customDesc": "Your own name and number of days, or a countdown to a date.",
+    "running": "In progress",
+    "start": "Start now"
+  },
+  "editor": {
+    "edit": "Edit counter",
+    "new": "New counter",
+    "mode": "Counting mode",
+    "modes": { "manual": "Manual", "auto": "Auto", "countdown": "Countdown" },
+    "modeDesc": {
+      "manual": "You tap “Done today” yourself to log your day; best for daily wirds.",
+      "auto": "Goes up by itself every day, no tapping needed.",
+      "countdown": "Counts down the days left until a date you pick."
+    },
+    "name": "Counter name",
+    "nameHint": "e.g. Praying in congregation",
+    "nameError": "Enter a name",
+    "days": "Number of days",
+    "daysError": "Enter a number between 1 and 3650",
+    "start": "Start date",
+    "target": "Target date",
+    "targetError": "Pick a date after the start date",
+    "color": "Color",
+    "save": "Save changes",
+    "create": "Create counter",
+    "cancel": "Cancel"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "heroTitle": "Test your Islamic knowledge",
+  "heroBody": "Questions on the Quran, Seerah, fiqh and creed, with a short explanation after every answer.",
+  "heroCount": "{count} questions in {cats} categories",
+  "categories": {
+    "quran": {
+      "title": "The Holy Quran",
+      "subtitle": "Its surahs, ayahs and virtues"
+    },
+    "messenger": {
+      "title": "The Prophet's Seerah",
+      "subtitle": "The life of the Prophet ﷺ from birth to death"
+    },
+    "caliphs": {
+      "title": "Rightly Guided Caliphs",
+      "subtitle": "Abu Bakr, Umar, Uthman and Ali"
+    },
+    "sahaba": {
+      "title": "The Companions",
+      "subtitle": "Their titles and stances"
+    },
+    "prophets": {
+      "title": "Stories of the Prophets",
+      "subtitle": "The prophets and messengers"
+    },
+    "fiqh": {
+      "title": "Fiqh & Worship",
+      "subtitle": "Prayer, zakat, fasting and Hajj"
+    },
+    "aqeedah": {
+      "title": "Creed",
+      "subtitle": "Pillars of faith, angels and the Last Day"
+    },
+    "hadith": {
+      "title": "Hadith",
+      "subtitle": "Comprehensive hadiths, narrators and books"
+    }
+  },
+  "modes": {
+    "category": "Category round",
+    "mixed": "Mixed round",
+    "daily": "Daily challenge",
+    "review": "Mistakes review"
+  },
+  "quiz": "Quiz",
+  "stats": {
+    "title": "Your stats",
+    "history": "History",
+    "rounds": "Rounds",
+    "answered": "Answered",
+    "accuracy": "Accuracy",
+    "bestStreak": "Best streak"
+  },
+  "dailySubtitle": "10 questions from all categories, new every day",
+  "dailyDone": "Done today: {score} of {total}",
+  "mixedSubtitle": "Random questions from every category",
+  "timer": {
+    "title": "Timer per question",
+    "subtitle": "{seconds} seconds to answer; running out counts as wrong"
+  },
+  "chooseCategory": "Choose a category",
+  "questionCount": "{count} questions",
+  "notPlayed": "Not played yet — start your first round",
+  "bestOf": "Best {best} of {of} • {plays, plural, one {{playsN} round} other {{playsN} rounds}}",
+  "questionOf": "Question {n} of {total}",
+  "streak": "Streak {n}",
+  "score": "Score {n}",
+  "secondsLeft": "{n} seconds left",
+  "correctTitle": "Correct, well done!",
+  "timeoutTitle": "Time's up — the answer: {answer}",
+  "wrongTitle": "The correct answer: {answer}",
+  "pickAnswer": "Pick an answer",
+  "next": "Next",
+  "showResult": "Show result",
+  "leaveTitle": "End this round?",
+  "leaveBody": "This round's result won't be saved if you leave now.",
+  "continue": "Continue",
+  "leave": "Leave",
+  "back": "Back",
+  "tiers": {
+    "excellent": {
+      "title": "Masha'Allah! Excellent",
+      "body": "Beneficial knowledge, by Allah's will. Keep it up."
+    },
+    "great": {
+      "title": "Well done! Great score",
+      "body": "A little review and you'll reach full marks."
+    },
+    "good": {
+      "title": "Good, you can do better",
+      "body": "Review the questions you missed below; seeking knowledge is worship."
+    },
+    "start": {
+      "title": "A good start, keep going",
+      "body": "Review the correct answers and try again; you'll improve, in sha' Allah."
+    }
+  },
+  "newBest": "New personal best in this category",
+  "correct": "Correct",
+  "wrong": "Wrong",
+  "retryMistakes": "Retry wrong questions ({n})",
+  "newRound": "New round",
+  "share": "Share result",
+  "copied": "Result copied",
+  "backToCategories": "Back to categories",
+  "reviewTitle": "Mistakes review",
+  "yourAnswer": "Your answer: {answer}",
+  "timedOut": "Time ran out",
+  "rightAnswer": "Correct: {answer}",
+  "shareText": "I got {score} of {total} ({percent}%) in “{title}” on the Islamic quiz.\nTest your Islamic knowledge too!",
+  "historyTitle": "Quiz history",
+  "historyRecent": "Recent rounds (up to {n})",
+  "historyEmpty": "No rounds yet — play one and it will appear here",
+  "clearHistory": "Clear history",
+  "clearTitle": "Clear history?",
+  "clearBody": "The list of past rounds will be deleted; stats and best scores are kept.",
+  "cancel": "Cancel",
+  "clear": "Clear"
+}

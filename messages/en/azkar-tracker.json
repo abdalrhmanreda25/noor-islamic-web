@@ -1,0 +1,26 @@
+{
+  "dayProgress": "{done} of {total} read",
+  "streak": "day streak",
+  "monthCompletion": "this month",
+  "bestStreak": "best streak",
+  "hint": "Tap a card to log it. It is also logged automatically when you finish every dhikr in that category. Streaks count the morning and evening azkar.",
+  "read": "Read",
+  "notRead": "Not logged",
+  "core": "core",
+  "open": "Read the azkar ({count})",
+  "history": "Last 4 weeks",
+  "categories": {
+    "morning": "Morning azkar",
+    "evening": "Evening azkar",
+    "after-prayer": "After-prayer azkar",
+    "sleep": "Bedtime azkar",
+    "waking": "Waking-up azkar"
+  },
+  "short": {
+    "morning": "Morning",
+    "evening": "Evening",
+    "after-prayer": "After prayer",
+    "sleep": "Sleep",
+    "waking": "Waking"
+  }
+}

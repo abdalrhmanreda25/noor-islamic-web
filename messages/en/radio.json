@@ -1,0 +1,23 @@
+{
+  "subtitle": "Round-the-clock Quran recitation, tafsir and adhkar radio",
+  "search": "Search stations…",
+  "count": "{n} stations",
+  "noResults": "No station by that name",
+  "noFavorites": "You haven't added any favourite stations yet",
+  "favorites": "Favourites",
+  "addFavorite": "Add to favourites",
+  "removeFavorite": "Remove from favourites",
+  "all": "All",
+  "recitations": "Recitations",
+  "tafsir": "Tafsir & lessons",
+  "hadith": "Hadith & seerah",
+  "athkar": "Adhkar & ruqyah",
+  "translations": "Translations",
+  "play": "Play",
+  "pause": "Pause",
+  "stop": "Stop",
+  "live": "Live",
+  "connecting": "Connecting…",
+  "error": "Couldn't play this station. Try again or pick another one",
+  "retry": "Retry"
+}

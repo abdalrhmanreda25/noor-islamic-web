@@ -1,0 +1,35 @@
+{
+  "tonight": "Tonight",
+  "locating": "Locating…",
+  "defaultLocation": "Cairo (default) · use my location",
+  "myLocation": "My location",
+  "span": "{h, plural, =0 {} other {#h }}{m}m",
+  "statusBeforeIsha": "Night prayer time starts after Isha ({time})",
+  "statusUntilLastThird": "The last third begins in {span}",
+  "statusInLastThird": "You are in the last third of the night, {span} left until Fajr",
+  "times": {
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "firstThird": "End of 1st third",
+    "middle": "Midnight",
+    "lastThird": "Last third",
+    "fajr": "Fajr"
+  },
+  "timesNote": "The night runs from Maghrib to Fajr; its middle and last third are computed from tonight's Maghrib and tomorrow's Fajr at your location.",
+  "trackerTonight": "Your qiyam tonight",
+  "trackerLastNight": "Your qiyam last night",
+  "trackerHint": "How many rak'ahs did you pray? Log them to track your progress",
+  "accepted": "May Allah accept it from you",
+  "rakah": "rak'ahs",
+  "statStreak": "nights in a row",
+  "statNights": "nights this month",
+  "statRakaat": "rak'ahs this month",
+  "tonightShort": "Tonight",
+  "lastNight": "Last night",
+  "tabs": {
+    "virtues": "Virtues",
+    "howTo": "How to pray",
+    "duas": "Duas",
+    "helps": "Helpful tips"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "repeat": "Repeat: {count}",
+  "done": "Done",
+  "reset": "Reset",
+  "progress": "{done} of {total}",
+  "items": "{count} azkar",
+  "subtitle": "Morning, evening and more from the Sunnah",
+  "tracker": "Azkar log",
+  "heroLabel": "The virtue of dhikr",
+  "heroText": "Allah says: \"O you who believe, remember Allah with much remembrance, and glorify Him morning and evening\" (33:41-42). Remembrance brings the blessings of Allah and His angels upon the one who remembers.",
+  "readToday": "Read today",
+  "completed": "All done. May Allah accept it from you"
+}

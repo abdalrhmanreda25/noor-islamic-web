@@ -1,0 +1,22 @@
+{
+  "subtitle": "A few consecutive ayat from one surah every day to listen to and follow",
+  "today": "{count} for today",
+  "byReciter": "Recited by {name}",
+  "ayahCount": "Number of ayat",
+  "reciter": "Reciter",
+  "random": "Random (a different reciter each day)",
+  "play": "Play wird",
+  "stop": "Stop wird",
+  "pause": "Pause",
+  "resume": "Resume",
+  "error": "Couldn't load the ayat — check your connection and try again",
+  "loadingText": "Loading the ayat…",
+  "textError": "Couldn't load the ayah text",
+  "reference": "Surah {surah} • ayat {from}–{to}",
+  "progress": "Listened to {done} of {total}",
+  "completed": "You've completed today's wird. May Allah accept it from you",
+  "streak": "{n, plural, =0 {No streak yet} one {{d} day streak} other {{d} day streak}}",
+  "totalDays": "{n} days completed",
+  "reset": "Reset today's progress",
+  "count": "{n, plural, one {{d} ayah} other {{d} ayat}}"
+}

@@ -1,0 +1,27 @@
+{
+  "readProgress": "Read {read} of {total} chapters",
+  "allRead": "You completed the whole Fortress of the Muslim",
+  "progressHint": "Mark a chapter as read when you finish it to track your progress",
+  "reset": "Reset progress",
+  "resetConfirm": "All chapters will be unmarked as read.",
+  "continue": "Continue reading",
+  "searchPlaceholder": "Search titles and azkar (Arabic)...",
+  "filters": {
+    "all": "All",
+    "favorites": "Favorites",
+    "unread": "Unread",
+    "read": "Read"
+  },
+  "noResults": "No results, try different words",
+  "noFavorites": "No favorite chapters yet. Tap the bookmark next to a chapter to save it",
+  "empty": "No chapters here",
+  "done": "Read",
+  "items": "{count, plural, one {# dhikr} other {# azkar}}",
+  "favorite": "Add to favorites",
+  "unfavorite": "Remove from favorites",
+  "chapterOf": "Chapter {n} of {total}",
+  "footnotes": "Footnotes",
+  "read": "Read",
+  "markRead": "Mark as read",
+  "nextChapter": "Next chapter"
+}

@@ -1,0 +1,42 @@
+{
+  "subtitle": "الرواتب والنوافل وسنن اليوم والسنن الإلهية",
+  "today": "سنن اليوم",
+  "rawatibProgress": "الرواتب: {done} من {total} ركعة",
+  "rawatibComplete": "أتممت الرواتب، بُني لك بيتٌ في الجنة بإذن الله",
+  "streak": "{days} يوم",
+  "streakLabel": "سلسلة الرواتب",
+  "history": "سجل السنن",
+  "hideHistory": "إخفاء السجل",
+  "thisMonth": "هذا الشهر",
+  "fullDays": "يوم أتممت فيه الرواتب",
+  "bestStreak": "أطول سلسلة",
+  "witrNights": "ليلة أوترت",
+  "duhaDays": "يوم صليت الضحى",
+  "last30": "آخر ٣٠ يومًا",
+  "less": "أقل",
+  "more": "أكثر",
+  "todayPrefix": "اليوم، ",
+  "dayRakaat": "{done}/{total} ركعة",
+  "editToday": "اضغط لتسجيل ما صليت",
+  "editPast": "نسيت التسجيل؟ عدّل هذا اليوم",
+  "witrMark": "أوتر في هذا اليوم",
+  "tabs": {
+    "rawatib": "الرواتب",
+    "nawafil": "النوافل",
+    "daily": "سنن يومية",
+    "divine": "السنن الإلهية"
+  },
+  "tracked": {
+    "fajr_before": "قبل الفجر",
+    "dhuhr_before": "قبل الظهر",
+    "dhuhr_after": "بعد الظهر",
+    "maghrib_after": "بعد المغرب",
+    "isha_after": "بعد العشاء",
+    "duha": "الضحى",
+    "witr": "الوتر"
+  },
+  "copy": "نسخ",
+  "copied": "تم النسخ",
+  "nightPrayer": "افتح قيام الليل",
+  "nightPrayerDesc": "أوقات الليلة ومتابعة قيامك"
+}

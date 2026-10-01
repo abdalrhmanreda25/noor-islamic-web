@@ -1,0 +1,47 @@
+{
+  "today": "Today",
+  "hijriDate": "Hijri date",
+  "gregorianDate": "Gregorian date",
+  "tabs": { "calendar": "Calendar", "converter": "Date converter", "age": "Hijri age", "events": "Islamic occasions" },
+  "toolDesc": {
+    "converter": "Convert between Hijri and Gregorian both ways",
+    "age": "Your age in both calendars and your next Hijri birthday",
+    "events": "Blessed seasons and days with a countdown"
+  },
+  "prevMonth": "Previous month",
+  "nextMonth": "Next month",
+  "backToday": "Back to today",
+  "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "converter": {
+    "g2h": "Gregorian to Hijri",
+    "h2g": "Hijri to Gregorian",
+    "day": "Day",
+    "month": "Month",
+    "year": "Year",
+    "result": "Result",
+    "invalid": "Invalid date"
+  },
+  "age": {
+    "birth": "Date of birth (Gregorian)",
+    "empty": "Pick your date of birth to see your age in both calendars",
+    "hijriAge": "Your Hijri age",
+    "gregorianAge": "Your Gregorian age",
+    "hijriBirth": "Your Hijri birth date",
+    "nextBirthday": "Next Hijri birthday",
+    "span": "{years} years, {months} months, {days} days"
+  },
+  "countdown": "{count, plural, =0 {Today} one {Tomorrow} other {In {n} days}}",
+  "nextOccasion": "Next occasion",
+  "note": "Hijri dates follow the Umm al-Qura calendar and may differ by a day with moon sighting",
+  "events": {
+    "newYear": { "name": "Islamic New Year", "desc": "The first of Muharram, the start of the new Hijri year." },
+    "ashura": { "name": "Day of Ashura", "desc": "The 10th of Muharram; fasting it is Sunnah, ideally with the 9th." },
+    "ramadanStart": { "name": "Start of Ramadan", "desc": "The first day of the month of fasting, the month of the Quran and night prayer." },
+    "lastTen": { "name": "Last ten nights of Ramadan", "desc": "The best nights of the year, in which Laylat al-Qadr is sought." },
+    "eidFitr": { "name": "Eid al-Fitr", "desc": "The first of Shawwal, the Muslims' Eid after completing Ramadan." },
+    "dhulHijjahTen": { "name": "First ten days of Dhul-Hijjah", "desc": "The best days of the year; do plenty of good deeds in them." },
+    "arafah": { "name": "Day of Arafah", "desc": "The great day of Hajj; fasting it is Sunnah for those not on Hajj." },
+    "eidAdha": { "name": "Eid al-Adha", "desc": "The day of sacrifice, the greatest day of the year." },
+    "tashreeq": { "name": "Days of Tashreeq", "desc": "Days of eating, drinking and remembering Allah after Eid al-Adha (11–13 Dhul-Hijjah)." }
+  }
+}

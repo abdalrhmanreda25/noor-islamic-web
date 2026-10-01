@@ -1,0 +1,30 @@
+{
+  "heroTitle": "Quran Tafsir",
+  "heroSubtitle": "Read the explanation of every ayah from four classical books, and pick the one that suits you.",
+  "totalSurahs": "Total surahs",
+  "meccan": "Meccan",
+  "medinan": "Medinan",
+  "surahsCount": "{count} surahs",
+  "search": "Search by surah name or number… (e.g. Al-Baqara or 2)",
+  "noResults": "No surah matches “{query}”",
+  "chooseBook": "Choose a tafsir book",
+  "book": "Tafsir book",
+  "ayahs": "{count} ayahs",
+  "ayah": "Ayah {n}",
+  "goToAyah": "Go to ayah",
+  "go": "Go",
+  "tafsir": "Tafsir",
+  "copy": "Copy",
+  "copied": "Copied",
+  "share": "Share",
+  "merged": "This ayah is explained together with the one before it.",
+  "prev": "Previous surah",
+  "next": "Next surah",
+  "allSurahs": "All surahs",
+  "books": {
+    "muyassar": { "title": "Al-Muyassar", "author": "King Fahd Complex", "about": "A concise tafsir in plain language, ideal for daily reading." },
+    "jalalayn": { "title": "Tafsir al-Jalalayn", "author": "Al-Mahalli & As-Suyuti", "about": "A very brief commentary, word by word with the ayah." },
+    "ibn-katheer": { "title": "Tafsir Ibn Kathir", "author": "Ibn Kathir ad-Dimashqi", "about": "Tafsir by narration, citing ayahs, hadiths and the early scholars." },
+    "qurtubi": { "title": "Tafsir al-Qurtubi", "author": "Abu Abdillah al-Qurtubi", "about": "Al-Jami' li-Ahkam al-Quran, extensive in fiqh and language." }
+  }
+}

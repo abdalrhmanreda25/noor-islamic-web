@@ -1,0 +1,82 @@
+{
+  "periods": {
+    "before_fajr": "Before Fajr",
+    "fajr": "Fajr & morning",
+    "duha": "Duha",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "sleep": "Before sleep",
+    "anytime": "Anytime"
+  },
+  "periodHint": {
+    "beforeFajr": "Until Fajr {time}",
+    "duha": "After sunrise {time}",
+    "sleep": "End of the day",
+    "anytime": "During the day",
+    "now": "Now"
+  },
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "prevDay": "Previous day",
+  "nextDay": "Next day",
+  "backToday": "Back to today",
+  "streak": "{count, plural, =0 {Start your streak today} one {Consistency: {n} day} other {Consistency: {n} days}}",
+  "progress": "Done {done} of {total}",
+  "noTasks": "No tasks on this day",
+  "nowPeriod": "Now: {period}",
+  "schedule": "Today's schedule",
+  "pastSchedule": "That day's tasks",
+  "pastNote": "You're viewing a past day: you can correct what you did, but adding and deleting tasks is done from today's list.",
+  "templates": "Templates",
+  "restore": "Restore default tasks",
+  "restored": "Restored {count} default tasks",
+  "allDefaultsExist": "All default tasks are already there",
+  "routineAdded": "Added {count} tasks from “{title}”",
+  "routineExists": "The tasks of “{title}” are already there",
+  "empty": {
+    "title": "Plan your day around the prayers",
+    "body": "Pick a ready routine whose tasks are placed at their times, or add your own.",
+    "browse": "Browse all templates",
+    "noRecord": "No record for this day",
+    "noRecordBody": "The planner wasn't opened on this day. If you forgot to log it, create its record with your current tasks and tick what you did.",
+    "createRecord": "Log this day"
+  },
+  "item": {
+    "evidence": "Virtue and evidence",
+    "rename": "Rename",
+    "move": "Move to another period",
+    "delete": "Delete",
+    "open": "Open page",
+    "options": "Options",
+    "deleted": "Deleted “{title}”; its past record is kept",
+    "undo": "Undo",
+    "name": "Task name",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "quickAdd": { "placeholder": "Add a task…", "period": "Task period", "add": "Add" },
+  "templatesSheet": { "routines": "Routines", "singles": "Single tasks", "all": "All", "added": "Added", "add": "Add" },
+  "routines": {
+    "essentials": { "title": "Essentials routine", "subtitle": "Morning, evening and sleep azkar with a Quran wird" },
+    "sunan": { "title": "Sunnah routine", "subtitle": "The twelve rawatib with Duha and Witr" },
+    "night": { "title": "Night routine", "subtitle": "Qiyam, the pre-dawn hours and a bedtime wird" }
+  },
+  "week": { "title": "This week", "hint": "Tap a day to view it", "days": ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"] },
+  "history": {
+    "title": "Planner history",
+    "prev": "Previous month",
+    "next": "Next month",
+    "hint": "A star marks a day with every task done. Tap a day to view and edit its record.",
+    "less": "Less",
+    "more": "More",
+    "complete": "Complete days",
+    "good": "Days at 80%+",
+    "average": "Average completion",
+    "best": "Longest streak"
+  },
+  "hadith": "The Messenger of Allah ﷺ said: “The most beloved deeds to Allah are the most consistent, even if small.”",
+  "hadithSource": "Agreed upon",
+  "close": "Close"
+}
